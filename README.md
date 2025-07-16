@@ -3,7 +3,7 @@ Hey! My name is Tomasz Baczkun. I am an aspiring biostatistician, beginning my m
 <br>
 <br>
 
-## **Project**
+## **Projects**
 
 <br>
 <br>
