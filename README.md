@@ -22,4 +22,4 @@ Documentation of my bachelor thesis, where I used Structural Equation Modelling 
 
 The R code can be found in the Appendixes.
 
-(https://github.com/TommyBiostats/mentally-healthy-radiotherapy/blob/main/Thesis_Tomasz%20Baczkun.pdf)
+https://github.com/TommyBiostats/mentally-healthy-radiotherapy/blob/main/Thesis_Tomasz%20Baczkun.pdf
