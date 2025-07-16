@@ -20,7 +20,7 @@ https://github.com/TommyBiostats/mothers-in-bangladesh/blob/main/FinalProject.pd
 <br>
 <br>
 
-**“Detecting response shift and ‘true’ change with Structural Equation Modelling in Health-Related Quality of Life of Dutch bone metastasis patients undergoing radiotherapy.”**
+**Detecting response shift and ‘true’ change with Structural Equation Modelling in Health-Related Quality of Life of Dutch bone metastasis patients undergoing radiotherapy.**
 
 Documentation of my bachelor thesis, where I used Structural Equation Modelling in order to identify the change in the well-being of Dutch bone metastasis patients.
 
