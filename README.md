@@ -11,7 +11,7 @@ My name is Tomasz Baczkun. I am an aspiring biostatistician, beginning my master
 **Phase III clinical trial analysis of a CardiaX hypertension drug.**
 
 
-This is the statistical analysis of a Phase III randomized control clinical trial data. The aim was to assess the efficiency of a new hypertension drug - CardioX (Drug A) - against an active comparator (Drug B) and placebo. Additionally, risk base monitoring (RBM) was conducted.
+This is the statistical analysis of a Phase III randomized control clinical trial data. The aim was to assess the efficiency of a new hypertension drug - CardioX (Drug A) - against an active comparator (Drug B) and placebo. Additionally, risk based monitoring (RBM) was conducted.
 
 https://github.com/TommyBiostats/phase3-clinical-trial-analysis/blob/main/2025.09.17_CRO_report.pdf
 
