@@ -5,6 +5,9 @@ My name is Tomasz Baczkun. I am an aspiring biostatistician, beginning my master
 
 ## **Projects**
 
+<br>
+<br>
+
 **Phase III clinical trial analysis of a CardiaX hypertension drug.**
 
 
