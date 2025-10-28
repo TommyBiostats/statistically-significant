@@ -53,3 +53,13 @@ https://github.com/TommyBiostats/mothers-in-bangladesh/blob/main/FinalProject.pd
 I decided to design a function that would easily extract the necessary information, so either words or number, from the items of a given list. The reasoning behind it is that once I have encountered variables named such as 'fc bayerng modrich.12-05-2012' and it was quite a nightmate - enough of a motivation to build a tool.
 
 https://github.com/TommyBiostats/simple-cleaning/blob/main/simple_list_cleaner_Tomasz%20Baczkun.py
+
+
+<br>
+<br>
+
+**ING in-house project**
+
+Together with my team, I participated in an ING in-house day. We had 50 minutes to analyze a provided dataset and identify the clients worth investing in, aiming to maximize ING’s profit while minimizing CO2 emissions.
+
+https://github.com/TommyBiostats/ing_inhouse_2025/blob/main/data_cleaning.R
