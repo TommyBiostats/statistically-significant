@@ -1,4 +1,4 @@
-My name is Tomasz Baczkun. I am an aspiring professional, currently following a master program in Statistics and Data Science at Leiden University. For those interested, through this repository one can access some projects I have worked on so far. 
+My name is Tomasz Baczkun. I am an aspiring professional, currently following a master program in Statistics and Data Science at Leiden University. For those interested, through this repository one can access some of the projects I have worked on so far. 
 
 <br>
 <br>
@@ -19,7 +19,7 @@ https://github.com/TommyBiostats/behavioural-analysis/blob/main/consumer_analysi
 <br>
 <br>
 
-**Phase III clinical trial analysis of a CardioX hypertension drug.**
+**Phase III clinical trial analysis of a CardioX hypertension drug**
 
 This is the statistical analysis of a Phase III randomized control clinical trial data. The aim was to assess the efficiency of a new hypertension drug - CardioX (Drug A) - against an active comparator (Drug B) and placebo. Additionally, risk based monitoring (RBM) was conducted.
 
@@ -29,7 +29,7 @@ https://github.com/TommyBiostats/phase3-clinical-trial-analysis/blob/main/2025.0
 <br>
 <br>
 
-**Detecting response shift and ‘true’ change with Structural Equation Modelling in Health-Related Quality of Life of Dutch bone metastasis patients undergoing radiotherapy.**
+**Detecting response shift and ‘true’ change with Structural Equation Modelling in Health-Related Quality of Life of Dutch bone metastasis patients undergoing radiotherapy**
 
 Documentation of my bachelor thesis, where I used Structural Equation Modelling in order to identify the change in the well-being of Dutch bone metastasis patients.
 
@@ -41,7 +41,7 @@ https://github.com/TommyBiostats/mentally-healthy-radiotherapy/blob/main/Thesis_
 <br>
 
 **Identifying the risk factors responsible for maternal mortality in
-Bangladesh's rural areas.**
+Bangladesh's rural areas**
 
 
 This is my final project for the course 'Data Analysis in Practice'. I had a pleasure of taking this course during my exchange at Kyoto University. The purpose of the work was to identify the risk factors responsible for maternal mortality in Bangladesh's rural areas.
