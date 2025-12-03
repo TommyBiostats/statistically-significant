@@ -77,7 +77,7 @@ https://github.com/TommyBiostats/ing_inhouse_2025/blob/main/data_cleaning.R
 <br>
 <br>
 
-**Age filter for clinical trial**
+**Shiny app: Age filter for clinical trial**
 
 I put together a simple R shiny app that allows a clinician to see the proportion of cured and not cured subjects for any given age group. The data are artificial, made for the sake of the example.
 
