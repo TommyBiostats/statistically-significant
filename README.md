@@ -8,6 +8,16 @@ My name is Tomasz Baczkun. I am an aspiring professional, currently following a 
 <br>
 <br>
 
+**Shiny R App: Interactive outlier filter with distribution overview.**
+
+The app allows users to interactively filter the data in search of outliers per cateogry in any csv dataset. It provides visual distribution of variable of interest given categories and details regarding the outliers.
+
+https://tommybiostat.shinyapps.io/asthma_outlier_detection/
+
+
+<br>
+<br>
+
 **How does change of site background color influence user behavior?**
 
 Company X in United Kingdom was interested whether changing the background color of their website from white to black would have an effect on the customer conversion rates. In the ecommerce behavioural analysis, I answer this question, provide the extent of the effect and behavioural interpretation, along with insights to the marketing department.
@@ -17,15 +27,6 @@ https://github.com/TommyBiostats/behavioural-analysis/blob/main/consumer_analysi
 <br>
 <br>
 
-**Shiny R App: Interactive outlier filter with distribution overview.
-
-The app allows users to interactively filter the data in search of outliers per cateogry in any csv dataset. It provides visual distribution of variable of interest given categories and details regarding the outliers.
-
-https://tommybiostat.shinyapps.io/asthma_outlier_detection/
-
-
-<br>
-<br>
 
 **Phase III clinical trial analysis of a CardioX hypertension drug**
 
