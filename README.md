@@ -10,7 +10,7 @@ My name is Tomasz Baczkun. I am an aspiring professional, currently following a 
 
 **Shiny R App: Interactive outlier filter with distribution overview.**
 
-The app allows users to interactively filter the data in search of outliers per cateogry in any csv dataset. It provides visual distribution of variable of interest given categories and details regarding the outliers.
+The app allows users to interactively filter the data in search of outliers per cateogry in a desired csv data file. It provides visual distribution of variable of interest given categories and details regarding the outliers.
 
 https://tommybiostat.shinyapps.io/asthma_outlier_detection/
 
