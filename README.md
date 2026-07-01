@@ -8,6 +8,15 @@ My name is Tomasz Baczkun. I am an aspiring professional, currently following a 
 <br>
 <br>
 
+**Survival Analysis of the Oscar Winners**
+
+As part of the 'Survival Analysis' course taught by Hein Putter, together with my colleague we have addressed the historical question of whether winning an oscar increases one's survival. Our final method of analysis was Cox Proportional Hazards Model with Time-Dependent Covariates.
+
+https://github.com/TommyBiostats/survival_oscars/blob/main/oscar_winners_survival.pdf
+
+<br>
+<br>
+
 **Phase III clinical trial analysis of a CardioX hypertension drug**
 
 This is the statistical analysis of a Phase III randomized control clinical trial data. The aim was to assess the efficiency of a new hypertension drug - CardioX (Drug A) - against an active comparator (Drug B) and placebo. Additionally, risk based monitoring (RBM) was conducted.
