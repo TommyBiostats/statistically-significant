@@ -1,4 +1,4 @@
-My name is Tomasz Baczkun. I am an aspiring professional, currently following a master program in Statistics and Data Science at Leiden University. For those interested, through this repository one can access some of the projects I have worked on so far. 
+My name is Tomasz Baczkun. I am a beginner biostatistician, currently following a master program in Statistics and Data Science at Leiden University with specialisation in medical statistics. Through this repository one can access some of the relevant projects I have worked on so far. 
 
 <br>
 <br>
